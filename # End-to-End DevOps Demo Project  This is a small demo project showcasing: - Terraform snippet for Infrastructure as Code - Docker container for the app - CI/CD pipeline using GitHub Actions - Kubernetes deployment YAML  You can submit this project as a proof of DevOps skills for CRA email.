@@ -1,0 +1,9 @@
+# End-to-End DevOps Demo Project
+
+This is a small demo project showcasing:
+- Terraform snippet for Infrastructure as Code
+- Docker container for the app
+- CI/CD pipeline using GitHub Actions
+- Kubernetes deployment YAML
+
+You can submit this project as a proof of DevOps skills for CRA email.
